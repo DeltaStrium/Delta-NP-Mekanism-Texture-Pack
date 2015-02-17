@@ -8,7 +8,8 @@ We at DeltaStrium will be continuing to update this pack for the foreseeable fut
 Credits:
 ================
 * AidenCBrady[For creating Mekanism mod]
-* Nuttyprot [for Creating the textures][Retired From Texturing
+* Nuttyprot [for Creating the textures][Retired From Texturing]
+* CeLittle3 [For His Texture Contributions]
 * DrakeBD [Editing and Creating the pack]
 
 Licensing:
